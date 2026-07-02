@@ -1,0 +1,1 @@
+# Fine-Tuning SmolVLM2 for Structured Food Extraction
