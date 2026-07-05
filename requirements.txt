@@ -1,0 +1,6 @@
+num2words
+transformers
+torch
+accelerate
+gradio
+torchvision
